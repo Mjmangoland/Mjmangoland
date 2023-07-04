@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mjmangoland
 - 👀 I’m interested in web/mobile development
-- 🌱 I’m currently learning pythonn react react native flutter
+- 🌱 I’m currently learning Typescript Next.js react-native flutter
 - 💞️ I’m looking to collaborate on ..(still seeking)
 - 📫 How to reach me - heartofsound88@gmail.com
 
